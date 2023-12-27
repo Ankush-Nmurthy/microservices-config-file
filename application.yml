@@ -1,3 +1,5 @@
 spring:
   application:
-    name: CONFIG-SERVER
+    name: USER-SERVICE
+server:
+  port: 8081
